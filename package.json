@@ -1,0 +1,22 @@
+{
+  "name": "handle-obj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/silenceboychen/handle-obj.git"
+  },
+  "keywords": [
+    "CORS"
+  ],
+  "author": "silenceboychen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silenceboychen/handle-obj/issues"
+  },
+  "homepage": "https://github.com/silenceboychen/handle-obj#readme"
+}

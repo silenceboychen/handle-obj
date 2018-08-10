@@ -2,6 +2,15 @@
 
 Multi-layer object extraction as a layer.
 
+#### Install
+
+```
+$ npm install handle-obj
+
+or
+
+$ yarn add handle.obj
+```
 #### example:
 
 ```
